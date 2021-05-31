@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(38, 42, 43);
+}
+
+.Acme {
+    color: white;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.head1 {
+    padding-top: 80px;
+    padding-bottom: 25px;
+}
+
+.sub-head{
+    padding-bottom: 25px;
+}
+
+.lower{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.lower1{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.lower2{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.span{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+p{
+    padding-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
